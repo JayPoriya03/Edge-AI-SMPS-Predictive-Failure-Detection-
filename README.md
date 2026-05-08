@@ -1,3 +1,6 @@
+![ESP32](https://img.shields.io/badge/ESP32-Embedded-blue)
+![Edge AI](https://img.shields.io/badge/Edge%20AI-TensorFlowLite-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 # ⚡ Edge AI Based SMPS Predictive Failure Detection System
 
 > Intelligent real-time SMPS monitoring and protection using ESP32, Edge AI, and TensorFlow Lite.
